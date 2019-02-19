@@ -2,4 +2,6 @@
 
 Hello Sara
 
-var name: "Sara"
+var name = "Sara"
+
+consolge.log("Name")
